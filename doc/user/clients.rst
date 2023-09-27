@@ -140,7 +140,7 @@ Nokia Podcasting       -       Subscription service    GPL         `Podcasting D
 .. _Detlef Gpodderson: https://play.google.com/apps/testing/at.ac.tuwien.detlef
 .. _Detlef Repository: https://github.com/gpodder/detlef
 .. _AntennaPod: http://antennapod.org/
-.. _Synchronisation between devices: https://antennapod.org/documentation/general/gpodder
+.. _Synchronisation between devices: https://antennapod.org/documentation/general/synchronization
 .. _Escapepod: https://github.com/y20k/escapepod
 .. _gpodroid: https://play.google.com/store/apps/details?id=com.unitedcoders.android.gpodroid
 .. _gpodroid Repository: https://github.com/gpodder/GpodRoid
